@@ -10,7 +10,7 @@ Position
 * DependencyPlugins: -
 * OptionalPlugins: -
 * Categories: Helpful
-* WebSite: [github](https://github.com/alejandroliu/bad-plugins/tree/master/)
+* WebSite: [github](https://github.com/kniffo80/mcpe-position-plugin/tree/master/Position)
 
 Overview
 --------
