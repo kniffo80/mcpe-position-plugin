@@ -1,0 +1,20 @@
+name: Position
+version: 0.0.1
+api: [1.13.0]
+load: STARTUP
+main: kniffman\position\Main
+
+author: kniffman
+description: A simple plugin that shows the position of all online players
+
+commands:
+  position:
+    description: "Show position of all online players"
+    usage: "/position"
+    aliases: [position, pos]
+    permission: position.cmd
+
+permissions:
+  position.cmd:
+    default: op
+    description: "Allow position command"
