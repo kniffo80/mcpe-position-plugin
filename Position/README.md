@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kniffo80/position-plugin/master/position.png" style="width:64px;height:64px" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/kniffo80/mcpe-position-plugin/master/Position/position.png" style="width:64px;height:64px" width="64" height="64"/>
 
 
 Position
